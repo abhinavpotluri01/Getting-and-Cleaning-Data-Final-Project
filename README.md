@@ -12,4 +12,4 @@ Files:
     c. using descriptive activity names to name the activities in the data set
     d. appropriately labeling the data set with descriptive variable names. 
     e. creating a second, independent tidy data set with the average of each variable for each activity and each subject.
-  3. averagesData.txt contains the final tiday data set with the averages as described in 2e.
+  3. averagesData.txt - A text file containing the final tidy data set with the averages as described in 2e.
